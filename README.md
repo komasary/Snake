@@ -1,1 +1,1 @@
-# Snake
+# Snake game for all ages
